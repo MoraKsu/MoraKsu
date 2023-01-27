@@ -5,8 +5,8 @@
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
     Меня зовут Ксения!
   </h1>
-<a href="https://t.me/moraksu" ></a><img src="https://img.shields.io/badge/-KseniyaErina-blue?style=for-the-badge&logo=Telegram&logoColor=white" alt=""></a>
-<a href="mailto:moraksu@gmail.com"></a><img src="https://img.shields.io/badge/-Gmail-red?style=for-the-badge&logo=Gmail&logoColor=white" >
+<a href="https://t.me/moraksu" ><img src="https://img.shields.io/badge/-KseniyaErina-blue?style=for-the-badge&logo=Telegram&logoColor=white" alt="Telegram"></a>
+<a href="mailto:moraksu@gmail.com"><img src="https://img.shields.io/badge/-Gmail-red?style=for-the-badge&logo=Gmail&logoColor=white" alt="Gmail"></a>
 <img src="https://komarev.com/ghpvc/?username=MoraKsu&style=flat-square&color=blue&style=for-the-badge" alt="counter"/>
 </div>
 
