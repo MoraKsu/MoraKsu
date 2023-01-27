@@ -19,7 +19,7 @@
 
 - 🧠 Хочу развиваться в новой профессии и найти работу
 
-- 👩🏼‍💻 Изучаю программирование в [GeekBrains](https://gb.ru/) 
+- 👩🏼‍💻 Изучаю программирование в [GeekBrains](https://go.redav.online/61bebb217b1adf00) 
 
 
 ---
@@ -63,10 +63,10 @@
 
 | Курсы                                                           | Дата              |
 | ----------------------------------------------------------------| :---------------: |
-| [GeekBrains](https://gb.ru/)/Введение в программирование        | 11/2022 - 11/2022 |
-| [GeekBrains](https://gb.ru/)/Математика и информатика для программистов | 11/2022 - 11/2022 |
-| [GeekBrains](https://gb.ru/)/Введение в контроль версий         | 12/2022 - 12/2022 |
-| [GeekBrains](https://gb.ru/)/Знакомство с языком программирования C# | 12/2022 - 01/2023 |
+| [GeekBrains](https://go.redav.online/61bebb217b1adf00)/Введение в программирование        | 11/2022 - 11/2022 |
+| [GeekBrains](https://go.redav.online/61bebb217b1adf00)/Математика и информатика для программистов | 11/2022 - 11/2022 |
+| [GeekBrains](https://go.redav.online/61bebb217b1adf00)/Введение в контроль версий         | 12/2022 - 12/2022 |
+| [GeekBrains](https://go.redav.online/61bebb217b1adf00)/Знакомство с языком программирования C# | 12/2022 - 01/2023 |
 
 
 ---
@@ -79,9 +79,9 @@
 
 ### :fire: My Status :
 
-<a href="http://www.github.com/MoraKsu"><img src="https://github-readme-streak-stats.herokuapp.com/?user=MoraKsu&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
-<a href="https://github.com/MoraKsu" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MoraKsu&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<p align="center">
+<a href="http://www.github.com/MoraKsu"><img src="https://github-readme-streak-stats.herokuapp.com/?user=MoraKsu&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a><a href="https://github.com/MoraKsu" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MoraKsu&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+</p>
 
 ---
 
