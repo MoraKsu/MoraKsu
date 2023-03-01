@@ -67,6 +67,9 @@
 | [GeekBrains](https://go.redav.online/61bebb217b1adf00)/Математика и информатика для программистов | 11/2022 - 11/2022 |
 | [GeekBrains](https://go.redav.online/61bebb217b1adf00)/Введение в контроль версий         | 12/2022 - 12/2022 |
 | [GeekBrains](https://go.redav.online/61bebb217b1adf00)/Знакомство с языком программирования C# | 12/2022 - 01/2023 |
+| [GeekBrains](https://go.redav.online/61bebb217b1adf00)/Знакомство с базами данных | 01/2023 - 02/2023 |
+| [GeekBrains](https://go.redav.online/61bebb217b1adf00)/Буткемп Программирование | 02/2023 - 03/2023 |
+| [GeekBrains](https://go.redav.online/61bebb217b1adf00)/Буткемп Тестирование | 02/2023 - 03/2023 |
 
 
 ---
