@@ -34,6 +34,10 @@
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="36" height="36" alt="Sass" />
 <img src="https://github.com/devicons/devicon/blob/master/icons/markdown/markdown-original.svg" width="36" height="36" alt="Markdown" />
 <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width="36" height="36" alt="Git" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" width="36" height="36" alt="Bash" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" width="36" height="36" alt="Java" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" width="36" height="36" alt="Linux" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="36" height="36" alt="Python" />
 </p>
 
 ---
@@ -44,6 +48,8 @@
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/illustrator-colored.svg" width="36" height="36" alt="Illustrator" />&nbsp;
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" />&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" width="36" height="36" alt="VScode" />&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original.svg" width="36" height="36" alt="PyCharm" />&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original.svg" width="36" height="36" alt="Intellij" />&nbsp;
 </p>
 
 ---
@@ -70,6 +76,11 @@
 | [GeekBrains](https://go.redav.online/61bebb217b1adf00)/Знакомство с базами данных | 01/2023 - 02/2023 |
 | [GeekBrains](https://go.redav.online/61bebb217b1adf00)/Буткемп Программирование | 02/2023 - 03/2023 |
 | [GeekBrains](https://go.redav.online/61bebb217b1adf00)/Буткемп Тестирование | 02/2023 - 03/2023 |
+| [GeekBrains](https://go.redav.online/61bebb217b1adf00)/Знакомство с языком Python | 03/2023 - 04/2023 |
+| [GeekBrains](https://go.redav.online/61bebb217b1adf00)/Операционные системы и виртуализация Linux | 03/2023 - 04/2023 |
+| [GeekBrains](https://go.redav.online/61bebb217b1adf00)/Гибкие методологии | 04/2023 - 04/2023 |
+| [GeekBrains](https://go.redav.online/61bebb217b1adf00)/Исключения в программировании и их обработка | 04/2023 - 04/2023 |
+| [GeekBrains](https://go.redav.online/61bebb217b1adf00)/Java: знакомства и как пользоваться базовым API | 04/2023 - 05/2023 |
 
 
 ---
