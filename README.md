@@ -101,6 +101,8 @@
 | [GeekBrains](https://go.redav.online/61bebb217b1adf00)/Контейнеризация | 09/2023 - 10/2023 |
 | [GeekBrains](https://go.redav.online/61bebb217b1adf00)/Контроль версий углублённо (GIT) | 10/2023 - 11/2023 |
 | [GeekBrains](https://go.redav.online/61bebb217b1adf00)/Базы данных и SQL | 10/2023 - 11/2023 |
+| [GeekBrains](https://go.redav.online/61bebb217b1adf00)/Тестирование API | 11/2023 - 11/2023 |
+| [GeekBrains](https://go.redav.online/61bebb217b1adf00)/Тестирование веб-приложений | 11/2023 - 12/2023 |
 ---
 
 ### :fire: My Status :
