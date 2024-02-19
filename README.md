@@ -104,6 +104,7 @@
 | [GeekBrains](https://go.redav.online/61bebb217b1adf00)/Тестирование веб-приложений | 11/2023 - 12/2023 |
 | [GeekBrains](https://go.redav.online/61bebb217b1adf00)/Веб-вёрстка HTML/CSS | 12/2023 - 01/2024 |
 | [GeekBrains](https://go.redav.online/61bebb217b1adf00)/Введение в IoT | 01/2024 - 01/2024 |
+| [GeekBrains](https://go.redav.online/61bebb217b1adf00)/Вводный курс по BigData | 01/2024 - 01/2024 |
 | [GeekBrains](https://go.redav.online/61bebb217b1adf00)/Прдвинутый HTML/CSS | 01/2024 - 02/2024 |
 | [GeekBrains](https://go.redav.online/61bebb217b1adf00)/Unit-тесты | 01/2024 - 02/2024 |
 ---
