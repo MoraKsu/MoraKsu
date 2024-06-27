@@ -71,44 +71,6 @@
 
 ---
 
-### 💻 Пройденные курсы:
-
-| Курсы                                                           | Дата              |
-| ----------------------------------------------------------------| :---------------: |
-| [GeekBrains](https://go.redav.online/61bebb217b1adf00)/Введение в программирование        | 11/2022 - 11/2022 |
-| [GeekBrains](https://go.redav.online/61bebb217b1adf00)/Математика и информатика для программистов | 11/2022 - 11/2022 |
-| [GeekBrains](https://go.redav.online/61bebb217b1adf00)/Введение в контроль версий         | 12/2022 - 12/2022 |
-| [GeekBrains](https://go.redav.online/61bebb217b1adf00)/Знакомство с языком программирования C# | 12/2022 - 01/2023 |
-| [GeekBrains](https://go.redav.online/61bebb217b1adf00)/Знакомство с базами данных | 01/2023 - 02/2023 |
-| [GeekBrains](https://go.redav.online/61bebb217b1adf00)/Буткемп Программирование | 02/2023 - 03/2023 |
-| [GeekBrains](https://go.redav.online/61bebb217b1adf00)/Буткемп Тестирование | 02/2023 - 03/2023 |
-| [GeekBrains](https://go.redav.online/61bebb217b1adf00)/Знакомство с языком Python | 03/2023 - 04/2023 |
-| [GeekBrains](https://go.redav.online/61bebb217b1adf00)/Операционные системы и виртуализация Linux | 03/2023 - 04/2023 |
-| [GeekBrains](https://go.redav.online/61bebb217b1adf00)/Гибкие методологии | 04/2023 - 04/2023 |
-| [GeekBrains](https://go.redav.online/61bebb217b1adf00)/Java: знакомства и как пользоваться базовым API | 04/2023 - 05/2023 |
-| [GeekBrains](https://go.redav.online/61bebb217b1adf00)/Объектно-ориентированное программирование Java | 05/2023 - 06/2023 |
-| [GeekBrains](https://go.redav.online/61bebb217b1adf00)/Исключения в программировании и их обработка | 04/2023 - 06/2023 |
-| [GeekBrains](https://go.redav.online/61bebb217b1adf00)/Знакомство с веб-технологиями | 05/2023 - 06/2023 |
-| [GeekBrains](https://go.redav.online/61bebb217b1adf00)/Компьютерные сети | 05/2023 - 06/2023 |
-| [GeekBrains](https://go.redav.online/61bebb217b1adf00)/Базовый курс JavaScript | 06/2023 - 07/2023 |
-| [GeekBrains](https://go.redav.online/61bebb217b1adf00)/Введение в тестирование | 07/2023 - 08/2023 |
-| [GeekBrains](https://go.redav.online/61bebb217b1adf00)/Основы ручного тестирования | 09/2023 - 09/2023 |
-| [GeekBrains](https://go.redav.online/61bebb217b1adf00)/Диаграммы состояний | 09/2023 - 09/2023 |
-| [GeekBrains](https://go.redav.online/61bebb217b1adf00)/Алгоритмы и структуры данных | 09/2023 - 09/2023 |
-| [GeekBrains](https://go.redav.online/61bebb217b1adf00)/Тест-дизайн и тест-аналитика | 09/2023 - 10/2023 |
-| [GeekBrains](https://go.redav.online/61bebb217b1adf00)/Основы тестирования мобильных приложений | 09/2023 - 10/2023 |
-| [GeekBrains](https://go.redav.online/61bebb217b1adf00)/Контейнеризация | 09/2023 - 10/2023 |
-| [GeekBrains](https://go.redav.online/61bebb217b1adf00)/Контроль версий углублённо (GIT) | 10/2023 - 11/2023 |
-| [GeekBrains](https://go.redav.online/61bebb217b1adf00)/Базы данных и SQL | 10/2023 - 11/2023 |
-| [GeekBrains](https://go.redav.online/61bebb217b1adf00)/Тестирование API | 11/2023 - 11/2023 |
-| [GeekBrains](https://go.redav.online/61bebb217b1adf00)/Тестирование веб-приложений | 11/2023 - 12/2023 |
-| [GeekBrains](https://go.redav.online/61bebb217b1adf00)/Веб-вёрстка HTML/CSS | 12/2023 - 01/2024 |
-| [GeekBrains](https://go.redav.online/61bebb217b1adf00)/Введение в IoT | 01/2024 - 01/2024 |
-| [GeekBrains](https://go.redav.online/61bebb217b1adf00)/Вводный курс по BigData | 01/2024 - 01/2024 |
-| [GeekBrains](https://go.redav.online/61bebb217b1adf00)/Прдвинутый HTML/CSS | 01/2024 - 02/2024 |
-| [GeekBrains](https://go.redav.online/61bebb217b1adf00)/Unit-тесты | 01/2024 - 02/2024 |
----
-
 ### :fire: My Status :
 
 <p align="center">
