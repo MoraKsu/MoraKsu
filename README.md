@@ -17,15 +17,6 @@
 
 ---
 
-### 🤝 Socials
-
-<p align="left"> 
-![alternative text](http://www.plantuml.com/plantuml/proxy?cache=no&src=https://raw.github.com/plantuml/plantuml-server/master/src/main/webapp/resource/test2diagrams.txt)
-<a href="https://t.me/moraksu" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="32" height="32" alt="telegram group" /></a>
-</p>
-
----
-
 ### :fire: My Status :
 
 <p align="center">
