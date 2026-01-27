@@ -1,5 +1,4 @@
 <div id="header" align="center">
-  <img width="740" height="100%" src="https://plopdo.com/wp-content/uploads/2021/10/Web-Development-San-Francisco-1.jpeg" class="attachment-newspaper-lite-single-large size-newspaper-lite-single-large wp-post-image" alt="Frontend Development" decoding="async" sizes="(max-width: 1140px) 100vw, 1140px">
   <h1>
     Привет!
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
